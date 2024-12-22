@@ -3,7 +3,6 @@ $(document).ready(function(){
         // Optional parameters
         direction: 'horizontal',
         loop: true,
-        effect: 'cube',
         grabCursor: true,
 
         autoplay:{
